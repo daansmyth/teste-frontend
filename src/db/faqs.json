@@ -1,0 +1,57 @@
+[
+    {
+        "id":"0",
+        "pergunta":"Como posso saber se o meu bebê se alimenta corretamente?",
+        "resposta":"Observe se o bebê está ganhando peso e fazendo xixi e cocô regularmente. Além disso, o pediatra irá avaliar o desenvolvimento do seu filho nas consultas de acompanhamento.",
+        "collapse":"panelsStayOpen-collapseZero"
+    },
+    {
+        "id":"1",
+        "pergunta":"Como aliviar a cólica do meu bebê?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem."
+        ,
+        "collapse":"panelsStayOpen-collapseOne"
+    },
+    {
+        "id":"2",
+        "pergunta":"Qual a melhor forma de higienizar o umbigo do recém-nascido?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseTwo"
+    },
+    {
+        "id":"3",
+        "pergunta":"Como aliviar o desconforto pelos primeiros dentinhos do meu filho?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseThree"
+    },
+    {
+        "id":"4",
+        "pergunta":"Meu filho está com febre. O que eu faço?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseFour"
+    },
+    {
+        "id":"5",
+        "pergunta":"O que eu faço para evitar que meu filho fique doente?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseFive"
+    },
+    {
+        "id":"6",
+        "pergunta":"Quando devo iniciar a introdução alimentar do meu bebê?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseSix"
+    },
+    {
+        "id":"7",
+        "pergunta":"Como posso ajudar meu filho a dormir melhor durante a noite?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseSeven"
+    },
+    {
+        "id":"7",
+        "pergunta":"Qual a importância das consultas de acompanhamento e vacinação para o meu filho?",
+        "resposta":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum neque, exercitationem aperiam provident sit nemo nesciunt, saepe, ad quasi soluta quibusdam cumque. Repellendus, sunt autem incidunt deleniti quas velit! Blanditiis aliquid, maiores dignissimos libero in similique eos at alias voluptatem.",
+        "collapse":"panelsStayOpen-collapseEight"
+    }
+]

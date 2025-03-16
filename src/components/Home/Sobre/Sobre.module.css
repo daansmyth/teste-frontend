@@ -1,0 +1,22 @@
+.sobre .imagem img {
+    max-height: 400px;
+}
+
+.sobre .conteudo .titulo {
+    font-family: var(--font-comfortaa);
+    font-weight: bold;
+    font-size: 24px;
+    color: var(--color3);
+}
+
+.sobre .conteudo .texto {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 18px;
+    margin: 14px 0;
+}
+
+.sobre .conteudo span .texto {
+    font-size: 21px;
+    margin-top: 8px;
+}

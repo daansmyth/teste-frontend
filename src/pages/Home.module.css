@@ -1,0 +1,38 @@
+.banner {
+    height: 45vw;
+    background-image: url('../assets/BANNER-HOME.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: var(--font-comfortaa);
+    color: #FFF;
+}
+
+.banner .texto {
+    font-size: 3vw;
+    position: absolute;
+    top: 20vw;
+}
+
+.bgtexto {
+    padding: .2em;
+    background: var(--color2);
+}
+
+.banner .link {
+    font-size: 1vw;
+    letter-spacing: 2px;
+    position: absolute;
+    bottom: 2vw;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.banner .link {
+    font-family: var(--font-montserrat);
+    font-weight: bold;
+    border-radius: 40px;
+    padding: .75em 4em;
+    background-color: var(--color2);
+    text-decoration: none;
+    color: #FFF;
+}

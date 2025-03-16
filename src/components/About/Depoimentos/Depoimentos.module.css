@@ -1,0 +1,19 @@
+.depoimentos .conteudo .titulo {
+    font-family: var(--font-comfortaa);
+    font-weight: 900;
+    color: var(--color5);
+    font-size: 1.25em;
+}
+
+.depoimentos .conteudo strong {
+    font-family: var(--font-comfortaa);
+    font-weight: 900;
+    color: var(--color5);
+    font-size: 1em;
+}
+
+.depoimentos .conteudo .texto {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 1em;
+}

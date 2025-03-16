@@ -1,0 +1,12 @@
+.faq {
+    font-family: var(--font-montserrat);
+}
+
+.faq .texto {
+    color: var(--color1);
+}
+
+.faq .titulo {
+    color: var(--color3);
+    font-weight: bold;
+}

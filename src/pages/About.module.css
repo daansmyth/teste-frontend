@@ -1,0 +1,19 @@
+.banner {
+    height: 23vw;
+    background-image: url('../assets/About/IMG_2434.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: var(--font-comfortaa);
+    color: #FFF;
+}
+
+.banner .texto {
+    font-size: 2vw;
+    position: absolute;
+    top: 7vw;
+}
+
+.bgtexto {
+    padding: .2em;
+    background: var(--color2);
+}

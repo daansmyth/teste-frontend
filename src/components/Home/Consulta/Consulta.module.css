@@ -1,0 +1,20 @@
+.consulta a {
+    text-decoration: none;
+}
+
+.consulta .card {
+    min-height: 470px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.1);
+}
+
+.consulta h3 {
+    font-size: 21px;
+    color: var(--color3);
+    font-family: var(--font-comfortaa);
+    font-weight: bold;
+}
+
+.consulta p {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+}

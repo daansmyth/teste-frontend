@@ -1,0 +1,39 @@
+.noticias {
+    padding: 0 1em;
+}
+
+.noticias .card {
+    min-height: 400px !important;
+    padding: 0;
+    border-radius: 24px;
+    border: none;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.noticias img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+    height: 55%;
+}
+
+.noticias .cardbody {
+    padding: 1em 1em;
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 1em;
+}
+
+.noticias .cardbody .titulo {
+    font-weight: 700;
+}
+
+.noticias .link {
+    font-family: var(--font-montserrat);
+    color: #000;
+    text-decoration: none;
+    position: absolute;
+    bottom: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+}

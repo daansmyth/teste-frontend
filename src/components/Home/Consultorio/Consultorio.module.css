@@ -1,0 +1,35 @@
+.consultorio strong {
+    font-weight:bold;
+}
+
+.consultorio .conteudo img {
+    max-height: 350px;
+}
+
+.consultorio img {
+    max-height: 400px;
+}
+
+.consultorio .titulo {
+    font-family: var(--font-comfortaa);
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--color3);
+}
+
+.consultorio .texto {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 1.15em;
+    margin-top: 8px;
+}
+
+.consultorio .endereco, .telefone {
+    color: var(--color4);
+}
+
+.consultorio .links {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 1.15em;
+}

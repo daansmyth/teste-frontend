@@ -1,0 +1,33 @@
+.banner {
+    content: '';
+    height: 23vw;
+    background-color: var(--color2);
+    font-family: var(--font-comfortaa);
+    color: #FFF;
+    font-size: 1.2vw;
+    position: relative;
+    margin-bottom: 50vh;
+}
+
+.banner .faq {
+    font-family: var(--font-comfortaa);
+}
+
+.faq {
+    margin-top: 2vw;
+}
+
+.faq img {
+    width: 3vw;
+}
+
+.faq .titulo {
+    font-size: 1.5vw;
+}
+
+.main .titulo {
+    font-family: var(--font-comfortaa);
+    font-size: 1.25vw;
+    font-weight: 900;
+    color: var(--color3);
+}

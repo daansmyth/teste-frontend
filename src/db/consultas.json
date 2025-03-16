@@ -1,0 +1,20 @@
+[
+    {
+        "id":"0",
+        "img":"./public/consulta-pre-natal@2x.png",
+        "title":"CONSULTA PRÉ-NATAL",
+        "content":"Preparamos a família para uma nova fase da vida, permitindo desenvolvimento saudável do bebê, minimizando as preocupações e dando diversas orientações para o dia a dia."
+    },
+    {
+        "id":"1",
+        "img":"./public/DSC_6864 copiar@2x.png",
+        "title":"CONSULTA PEDIÁTRICA",
+        "content":"Acompanhamos o desenvolvimento do seu filho em todos os aspectos: físico, neurológico e comportamental. Tudo para formarmos um adulto com mais saúde e qualidade de vida."
+    },
+    {
+        "id":"2",
+        "img":"./public/shutterstock_2207348935@2x.png",
+        "title":"NEFROLOGIA PEDIÁTRICA",
+        "content":"Tratamos as patologias que afetam os rins e vias urinárias como má formação congênita, infecções urinárias , litíase renal, glomerulopatias , entre outros."
+    }
+]

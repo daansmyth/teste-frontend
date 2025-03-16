@@ -1,0 +1,57 @@
+:root {
+    --font-comfortaa: "Comfortaa", sans-serif;
+    --font-roboto: "Roboto", sans-serif;
+    --font-montserrat: "Montserrat", sans-serif;
+
+    --bgcolor1: #FBFBFB;
+
+    --color1: #E4AAAC;
+    --color2: #85C2AD;
+    --color3: #4A7866;
+    --color4: #6D6D6D;
+    --color5: #C49395;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 83px;
+    box-shadow: -10px 0 15px rgba(0, 0, 0, 0.1), 10px 0 15px rgba(0, 0, 0, 0.1);
+    padding-bottom: 4em;
+}
+
+.btn-custom {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 150px;
+    max-width: 150px;
+    padding: .5em 0 ;
+    border-radius: 20px;
+    font-family: var(--font-montserrat);
+    border: none;
+    white-space: nowrap;
+}
+
+.btn-rosa {
+    background-color: #E4AAAC;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+.btn-waze {
+    background-color: #0BAEDC;
+    color: #000;
+    font-weight: bold;
+}
+
+.btn-maps {
+    background-color: #511294;
+    color: #FFF;
+}
+
+.btn-verde {
+    color: #FFF;
+    background-color: var(--color2);
+}

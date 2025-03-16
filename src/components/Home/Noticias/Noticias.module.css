@@ -1,0 +1,21 @@
+.noticias .conteudo {
+    position: absolute;
+    bottom:5%;
+    padding: 0 10px;
+    color: #FFF;
+    font-weight: lighter;
+    font-family: var(--font-montserrat);
+    font-size: 1em;
+}
+
+.item .titulo {
+    font-weight: bold;
+}
+
+.noticias .link {
+    display: flex;
+    justify-content: center;
+    font-family: var(--font-montserrat);
+    text-decoration: none;
+    color: var(--color4);
+}

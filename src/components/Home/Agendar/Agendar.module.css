@@ -1,0 +1,25 @@
+.agendar .imagem img {
+    max-height: 400px;
+}
+
+.agendar img {
+    max-height: 300px;
+}
+
+.agendar .titulo {
+    font-family: var(--font-comfortaa);
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--color3);
+}
+
+.agendar .texto {
+    font-family: var(--font-montserrat);
+    color: var(--color4);
+    font-size: 1.25em;
+    margin-top: 8px;
+}
+
+.agendar .texto span {
+    font-size: 1em;
+}

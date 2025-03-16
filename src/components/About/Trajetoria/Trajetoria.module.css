@@ -1,0 +1,38 @@
+.trajetoria .titulo {
+    font-family: var(--font-comfortaa);
+    color: var(--color3);
+    font-weight: 900;
+    font-size: 1.25em;
+}
+
+.conteudo {
+    margin: 1em 5em;
+}
+.trajetoria .conteudo .titulo {
+    color: var(--color5);
+    font-family: var(--font-montserrat);
+    font-weight: 700;
+    font-size: 1.15em;
+}
+
+.trajetoria .lista {
+    font-family: var(--font-montserrat);
+    font-size: 1em;
+    color: var(--color4);
+    list-style: disc;
+}
+
+.underline {
+    position: relative;
+    display: inline-block;
+}
+
+.underline::after {
+    content: '';
+    position: absolute;
+    left: 10px;
+    bottom: -5px;
+    width: 20%;
+    height: 2px;
+    background-color: var(--color5);
+}
