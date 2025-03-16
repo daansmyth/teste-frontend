@@ -1,12 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Teste Front-end
 
-Currently, two official plugins are available:
+Este é um projeto simples desenvolvido com **React** e **Vite**. A aplicação utiliza **React Router** para navegação.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **React**: Biblioteca JavaScript para criar interfaces de usuário dinâmicas.
+- **Vite**: Ferramenta de build rápida e moderna para aplicações web.
+- **React Router**: Biblioteca para gerenciar a navegação no React.
+- **Bootstrap** (opcional): Framework CSS para ajudar a construir layouts responsivos e rápidos.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Instalação
+
+1. Clone o repositório para o seu diretório local:
+
+   ```bash
+   git clone https://github.com/daansmyth/teste-frontend.git
+   cd drasuzane
+   ```
+
+2. Instale as dependências do projeto com o seguinte comando:
+
+   ```bash
+   npm install
+   ```
+
+   Esse comando irá baixar todas as dependências listadas no arquivo `package.json`, incluindo o **Vite**, **React**, **React Router**.
+
+## Scripts
+
+- **Iniciar o desenvolvimento**: Inicie o servidor de desenvolvimento com o comando:
+
+   ```bash
+   npm run dev
+   ```
+
+   Isso irá iniciar a aplicação no modo de desenvolvimento. Acesse a aplicação no navegador em `http://localhost:5173`.
